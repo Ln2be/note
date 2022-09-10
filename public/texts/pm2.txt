@@ -1,0 +1,2 @@
+start a npm app
+pm2 start npm --name "app name" -- start

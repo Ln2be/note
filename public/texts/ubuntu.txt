@@ -1,0 +1,6 @@
+alais
+https://www.tecmint.com/create-alias-in-linux/
+
+add permenent alias
+
+nano ~/.bashrc
