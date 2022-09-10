@@ -1,0 +1,14 @@
+create
+.gitignore
+
+initialize git :
+git init
+
+add remote "github"
+git remote add origin "github project link"
+
+push our master branch to the origin url, and set it as the default remote branch:
+git push --set-upstream origin master
+
+save and push
+git add . ; git commit -m "message" ; git push -u origin

@@ -1,0 +1,3 @@
+http://expressjs.com/en/starter/generator.html
+
+express --view=pug "app name" --git
